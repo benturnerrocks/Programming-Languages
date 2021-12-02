@@ -1,0 +1,2 @@
+worked mostly by myself but conversed a little with Riaz Kelly
+I used google to double check the syntax for some functions (like how to take multiple arguments with lambda)

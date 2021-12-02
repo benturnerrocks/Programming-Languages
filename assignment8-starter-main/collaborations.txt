@@ -1,0 +1,1 @@
+Received some debugging help from Kevin Chen on issues with scanf(). Otherwise I worked on my own.
